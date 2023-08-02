@@ -1,4 +1,13 @@
-This is a simple to-do list app made with React and Typescript. It has the fucntionalities of add, delete, and edit.
-To run the program:
-	-> npm install
-	-> npm start
+Todo Web App
+
+This app is made with React and Typescript.
+Features:-
+	Add
+ 	Edit
+  	Delete
+   	Mark as complete
+
+How to run the program:
+	-Clone the repository
+ 	-run npm install
+  	-run npm start
